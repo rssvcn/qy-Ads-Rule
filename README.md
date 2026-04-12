@@ -1,0 +1,1 @@
+# qy-Ads-Rule
