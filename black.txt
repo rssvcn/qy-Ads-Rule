@@ -1,5 +1,5 @@
 ! Description: 反馈群538268498
-! Homepage: http://rssv.cn/adguard/
+! Homepage: mqqapi://card/show_pslcard?src_type=app&version=1&uin=538268498&card_type=group
 ! Title: 晴雅广告拦截规则版支持IOS🐧538268498
 ! Version: 1.7.5
 ||kakamobi.cn^
