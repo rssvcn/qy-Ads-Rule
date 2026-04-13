@@ -1,7 +1,7 @@
 ! Description: 反馈群538268498
 ! Homepage: 回家的路538268498
 ! Title: 晴雅广告拦截规则
-! Version: 1.7.6
+! Version: 1.7.7
 ||kakamobi.cn^
 ||a1.alibabausercontent.com^
 ||a6-remad.qm989.com^
@@ -28,7 +28,6 @@
 ||ad.cyapi.cn^
 ||ad.hzyoka.com^
 ||ad.lovefree.cc^
-||ad.mcloud.139.com^
 ||oceanengine.com^
 ||ad.oceanengine.com^
 ||ad.qq.com^
@@ -758,3 +757,18 @@
 ||tnc3-bjlgy.zijieapi.com^
 ||api5-lf.qishui.com^
 ||tnc3-alisc1.zijieapi.com^
+||ort-stsdk.vivo.com.cn^
+||abeacdataonrt-stsdk.vivo.com.cn^
+||moni-onrt-stsdk.vivo.com.cn^
+||stsdk.vivo.com.cn^
+||ptsouweb.vivo.com.cn^
+||adlog.e.kuaishou.cn^
+||rtapplog.snssdk.com^
+||rtlog.snssdk.com^
+||scc.bytedance.com^
+||tnc3-aliec2.zijieapi.com^
+||gecko.zijieapi.com^
+||tnc0-aliec2.zijieapi.com^
+||log5-lf.qishui.com^
+||sdktt.data.comfylink.com^
+||pc-mon.zijieapi.com^
