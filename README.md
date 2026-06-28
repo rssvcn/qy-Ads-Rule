@@ -18,4 +18,4 @@ QQ交流群：785857484
 晴雅QQ：251616220
 
 ## 订阅地址
-https://gh.llkk.cc/https://raw.githubusercontent.com/790953214/qy-Ads-Rule/refs/heads/main/black.txt
+
