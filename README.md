@@ -17,5 +17,6 @@ QQ交流群：785857484
 
 晴雅QQ：251616220
 
-## 订阅地址
+## 订阅地址(不要直接点开，复制粘贴到app添加)
 
+https://raw.githubusercontent.com/rssvcn/qy-Ads-Rule/main/black.txt
