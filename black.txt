@@ -1,7 +1,7 @@
 ! Description: 反馈群538268498
 ! Homepage: https://qm.qq.com/q/qAytTlNa7Y
 ! Title: 晴雅广告拦截规则
-! Version: 1.7.4
+! Version: 1.7.5
 ||789.kakamobi.cn^
 ||a1.alibabausercontent.com^
 ||a6-remad.qm989.com^
@@ -196,8 +196,7 @@
 ||default.cn.wagbridge.ad.alibabacorp.com.gds.alibabadns.com^
 ||default.cn.wagbridge.ad.alibabacorp.com^
 ||df.tanx.com^
-||diagnosis.ad.xiaomi.com^
-||dig.bdurl.net^
+||ad.xiaomi.com^
 ||display-apps-ui-soak.iad.apple.com^
 ||display-apps-ui.iad.apple.com^
 ||dm.bytedance.com^
