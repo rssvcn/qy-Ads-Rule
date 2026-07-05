@@ -1,7 +1,7 @@
 ! Description: 反馈群538268498
 ! Homepage: https://qm.qq.com/q/qAytTlNa7Y
 ! Title: 晴雅广告拦截规则
-! Version: 1.7.8
+! Version: 1.8.0
 ||*.ads.heytapmobi.com^
 ||*.applovin.com^
 ||*.juicyads.me^
@@ -26,12 +26,10 @@
 ||adtrack.quark.cn^
 ||ad-api.morefreegame.com^
 ||ad-ggtg-api.37.com.cn^
-||ad-rs6-bjmt-platform34.idcyz.hb1.kwaidc.com^
-||ad-rs6-bjmt5406.idcyz.hb1.kwaidc.com^
-||ad-rs6-bjmt5409.idcyz.hb1.kwaidc.com^
+||ad-*.kwaidc.com^
 ||ad-sdk-config.youdao.com^
-||ad-sh-sz-zb.wagbridge.tanx.alimama.com.gds.alibabadns.com^
-||ad-sh-sz-zb.wagbridge.tanx.alimama.com^
+||ad-*.alibabadns.com^
+||ad-*.alimama.com^
 ||ad.12306.cn^
 ||ad.cyapi.cn^
 ||ad.hzyoka.com^
@@ -56,22 +54,17 @@
 ||ads-*.xhscdn.com^
 ||ads-acc.qqbrowser.qq.com^
 ||ads-config.unityads.unity3d.com^
-||ads-drcn.platform.hihonorcloud.com^
-||ads-img-bak.xhscdn.com^
-||ads-marketing-vivofs.vivo.com.cn^
-||ads-sdk-api.ranfenghd.com^
+||ads-*.hihonorcloud.com^
+||ads-*.vivo.com.cn^
+||ads-*.ranfenghd.com^
 ||ads.cup.com.cn^
 ||ads.exoclick.com^
 ||ads.game.iqiyi.com^
 ||ads.morefreegame.com^
 ||ads.yieldmo.com^
 ||ads.zijieapi.com^
-||ads3-normal-lq.zijieapi.com^
-||ads3-normal.zijieapi.com^
-||ads5-normal-hl.zijieapi.com^
-||ads5-normal-lf.zijieapi.com^
-||ads5-normal-lq.zijieapi.com^
-||ads5-normal.zijieapi.com^
+||ads3-*.zijieapi.com^
+||ads5-*.zijieapi.com^
 ||adsdk.vivo.com.cn^
 ||adsdkapi.dxys.pro^
 ||adse.wsa.ximalaya.com^
@@ -307,7 +300,6 @@
 ||orbit.jd.com^
 ||ossgw.alicdn.com^
 ||oth.str.mdt.qq.com^
-||otheve.beacon.qq.com^
 ||p.l.qq.com^
 ||p1-ad.adukwai.com^
 ||p1-ff.adkwai.com^
@@ -555,7 +547,6 @@
 ||monitor.v2.tcyad.com^
 ||feeds.vivo.com.cn^
 ||feedsplat.vivo.com.cn^
-||abeacdataort-stsdk.vivo.com.cn^
 ||ads.sinaimg.cn^
 ||ulogs.umengcloud.com^
 ||ulogs.umeng.com^
@@ -564,3 +555,4 @@
 ||open-set-api.shenshiads.com^
 ||ad.track.66mobi.com^
 ||oneseeker.top^
+||beacon.qq.com^
