@@ -1,7 +1,7 @@
 ! Description: 反馈群538268498
 ! Homepage: https://qm.qq.com/q/qAytTlNa7Y
 ! Title: 晴雅广告拦截规则
-! Version: 1.8.0
+! Version: 1.8.1
 ||*.ads.heytapmobi.com^
 ||*.applovin.com^
 ||*.juicyads.me^
@@ -503,9 +503,6 @@
 ||peplle.cn^
 ||maplehaze.cn^
 ||pro.bugly.qq.com^
-||utoken.umeng.com^
-||audid.umeng.com^
-||msg.umengcloud.com^
 ||*ad.wtzw.com^
 ||789.kakamobi.cn^
 ||swallow.kakamobi.cn^
@@ -548,8 +545,6 @@
 ||feeds.vivo.com.cn^
 ||feedsplat.vivo.com.cn^
 ||ads.sinaimg.cn^
-||ulogs.umengcloud.com^
-||ulogs.umeng.com^
 ||guanggao-prod.cn-shanghai.log.aliyuncs.com^
 ||fpvideo.shenshiads.com^
 ||open-set-api.shenshiads.com^
