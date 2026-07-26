@@ -1,7 +1,7 @@
 ! Description: 反馈群538268498
 ! Homepage: https://qm.qq.com/q/qAytTlNa7Y
 ! Title: 晴雅广告拦截规则
-! Version: 1.8.2
+! Version: 1.8.3
 ||*.ads.heytapmobi.com^
 ||*.applovin.com^
 ||*.juicyads.me^
@@ -560,3 +560,40 @@
 ||snssdk.com^
 ||api-access.pangolin-sdk-toutiao.com^
 ||novel.pangolin-sdk-toutiao.com^
+||dsp-api-cn.metricslinks.com^
+||mores.anythinktech.com^
+||sf6-fe-tos.pglstatp-toutiao.com^
+||amsweb-cdn-gz-1258344696.file.myqcloud.com^
+||lf1-cdn-tos.bytegoofy.com^
+||api-access.pangolin-sdk-toutiao1.com^
+||mssdk.volces.com^
+||log.snssdk.com^
+||tr.byteurl.cn^
+||apmplus.volces.com^
+||tnc0-alisc1.zijieapi.com^
+||ulogs.umeng.com^
+||tnc0-aliec2.zijieapi.com^
+||utoken.umeng.com^
+||mgw.mpaas.cn-hangzhou.aliyuncs.com^
+||cloudauth-device-dualstack.cn-shanghai.aliyuncs.com^
+||dm.toutiao.com^
+||dm.bytedance.com^
+||g.alicdn.com^
+||msg.umengcloud.com^
+||dm-hl.toutiao.com^
+||errnewlog.umeng.com^
+||open.e.kuaishou.com^
+||sdk.adhuanxiao.com^
+||v66-ad.ndcjl.com^
+||api.shanghailingye.cn^
+||mpcfg.fancydsp.com^
+||sdk.adx.adwangmai.com^
+||t2.fancyapi.com^
+||lemon.gameley.com^
+||g.fancyapi.com^
+||sdk-track.66mobi.com^
+||video-dsp.pddpic.com^
+||wallpaper-1258344696.file.myqcloud.com^
+||nadvideo.baidu.com^
+||sdkoptedge.chinanetcenter.com^
+||hmma.baidu.com^
