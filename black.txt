@@ -1,7 +1,7 @@
 ! Description: 反馈群538268498
 ! Homepage: https://qm.qq.com/q/qAytTlNa7Y
 ! Title: 晴雅广告拦截规则
-! Version: 1.8.3
+! Version: 1.8.4
 ||*.ads.heytapmobi.com^
 ||*.applovin.com^
 ||*.juicyads.me^
@@ -47,16 +47,13 @@
 ||adash.man.aliyuncs.com^
 ||adcdn6.tencentmusic.com^
 ||adimg.uve.weibo.com^
-||adlog.vivo.com.cn^
 ||admin-app.edifier.com^
-||adreq.vivo.com.cn^
 ||ads*.papegames.com^
 ||ads-*.xhscdn.com^
 ||ads-acc.qqbrowser.qq.com^
 ||ads-config.unityads.unity3d.com^
 ||ads-*.hihonorcloud.com^
 ||ads-*.vivo.com.cn^
-||ads-*.ranfenghd.com^
 ||ads.cup.com.cn^
 ||ads.exoclick.com^
 ||ads.game.iqiyi.com^
@@ -251,12 +248,8 @@
 ||leads.baidu.com^
 ||lens.zhihu.com^
 ||lf-cdn-tos.bytescm.com^
-||lf26-sf-be-pack-sign.pglstatp-toutiao.com^
 ||lf3-analytics.bytescm.com^
 ||lf3-reading.fqnovelpic.com^
-||lf6-ad-union-sdk.pglstatp-toutiao.com^
-||lf6-sf-be-pack-sign.pglstatp-toutiao.com^
-||lf9-sf-be-pack-sign.pglstatp-toutiao.com^
 ||log-api.pangolin-sdk-toutiao-b.com^
 ||log-api.pangolin-sdk-toutiao.com^
 ||log-sdk.ksapisrv.com^
@@ -309,17 +302,10 @@
 ||p2-lm.adkwai.com^
 ||p2-lm.adukwai.com^
 ||p2.adkwai.com^
-||p26-be-pack-sign.pglstatp-toutiao.com^
 ||p3-ad-sign.byteimg.com^
 ||p3-ad.adukwai.com^
-||p3-be-pack-sign.pglstatp-toutiao.com^
 ||p3-stone-tv.byteimg.com^
-||p3.adkwai.com^
-||p4-ad.adbkwai.com^
-||p4-ad.adkwai.com^
-||p4-ad.adukwai.com^
-||p5-ad.adukwai.com^
-||p66-ad.adkwai.com^
+||adkwai.com^
 ||pagead*.googleadservices-cn.com^
 ||pagead*.googlesyndication-cn.com^
 ||pagead*.googlesyndication.com^
@@ -372,8 +358,6 @@
 ||securemetrics.apple.com^
 ||securepubads.g.doubleclick.net^
 ||services.xiangji.qq.com^
-||sf3-be-pack.pglstatp-toutiao.com^
-||sf3-fe-tos.pglstatp-toutiao.com^
 ||shackapple.com^
 ||signaltower.gdt.qq.com^
 ||sis-ipv6.jpush.cn^
@@ -384,7 +368,7 @@
 ||ssp-sdk-config.uc.cn^
 ||ssp.1rtb.com^
 ||ssp.vivo.com.cn^
-||st-ads-jssdk.vivo.com.cn^
+||ads-jssdk.vivo.com.cn^
 ||statics.woozooo.com^
 ||status-ipv6.jpush.cn^
 ||stg-cmws.iad.apple.com^
@@ -441,9 +425,7 @@
 ||v2.gdt.qq.com^
 ||v2.reachmax.cn^
 ||v2mi.gdt.qq.com^
-||v3-be-pack.pglstatp-toutiao.com^
 ||v3.gdt.qq.com^
-||v5-be-pack.pglstatp-toutiao.com^
 ||v5-novelapp.fqnovelvod.com^
 ||vali-g1.cp31.ott.cibntv.net^
 ||valipl.cp31.ott.cibntv.net^
@@ -510,7 +492,7 @@
 ||jiaxiao-awd.kakamobi.cn^
 ||pangolin.snssdk.com^
 ||extlog.snssdk.com^
-||*pglstatp-toutiao.com^
+||pglstatp-toutiao.com^
 ||*pangolin*toutiao*.com^
 ||adashbc.m.taobao.com^
 ||tnc3-bjlgy.snssdk.com^
@@ -540,10 +522,7 @@
 ||unitelogreport.reader.qq.com^
 ||ywab.reader.qq.com^
 ||wkanx.com^
-||dsplog-adnet.vivo.com.cn^
 ||monitor.v2.tcyad.com^
-||feeds.vivo.com.cn^
-||feedsplat.vivo.com.cn^
 ||ads.sinaimg.cn^
 ||guanggao-prod.cn-shanghai.log.aliyuncs.com^
 ||fpvideo.shenshiads.com^
@@ -562,7 +541,6 @@
 ||novel.pangolin-sdk-toutiao.com^
 ||dsp-api-cn.metricslinks.com^
 ||mores.anythinktech.com^
-||sf6-fe-tos.pglstatp-toutiao.com^
 ||amsweb-cdn-gz-1258344696.file.myqcloud.com^
 ||lf1-cdn-tos.bytegoofy.com^
 ||api-access.pangolin-sdk-toutiao1.com^
