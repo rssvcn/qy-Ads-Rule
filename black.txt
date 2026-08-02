@@ -1,7 +1,7 @@
 ! Description: 反馈群538268498
 ! Homepage: https://qm.qq.com/q/qAytTlNa7Y
 ! Title: 晴雅广告拦截规则
-! Version: 1.8.4
+! Version: 1.8.5
 ||*.ads.heytapmobi.com^
 ||*.applovin.com^
 ||*.juicyads.me^
@@ -536,7 +536,6 @@
 ||bds.snssdk.com^
 ||dig.bdurl.net^
 ||open.toutiao.com^
-||snssdk.com^
 ||api-access.pangolin-sdk-toutiao.com^
 ||novel.pangolin-sdk-toutiao.com^
 ||dsp-api-cn.metricslinks.com^
